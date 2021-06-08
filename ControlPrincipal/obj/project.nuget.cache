@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQBddSEopEsmaKGEO4gecRcSEgEEo0sNzCt7eJvEma34GZK6e5mJpXon2xUun4CxvyoU2aKVv4zTKVvMmzQF3A==",
+  "success": true,
+  "projectFilePath": "C:\\ASP_NET\\Micro_Servicios\\ControlPrincipal\\ControlPrincipal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lmenza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lmenza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lmenza\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\lmenza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\lmenza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\lmenza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
